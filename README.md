@@ -1,8 +1,8 @@
 # SeguridadEnRedes
-##Autor: Alberto Moreno Gómez
+## Autor: Alberto Moreno Gómez
 
-###como compilar el programa:
+### como compilar el programa:
  $ gcc -fopenmp -o lab2_SR lab2_SR.c
 
-###Como ejecutar el programa:
+### Como ejecutar el programa:
  $ ./lab2_SR <archivo.gpg> 
